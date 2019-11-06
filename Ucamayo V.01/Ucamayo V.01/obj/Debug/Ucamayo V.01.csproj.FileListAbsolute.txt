@@ -1,0 +1,13 @@
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\bin\Debug\Ucamayo V.01.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\bin\Debug\Ucamayo V.01.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\bin\Debug\Ucamayo V.01.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Clientes.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Cultivos.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Datos_de_la_empresa.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Primcipal.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Reindexar_archivos.resources
