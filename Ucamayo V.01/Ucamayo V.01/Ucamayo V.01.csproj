@@ -76,12 +76,6 @@
     <Compile Include="Reindexar archivos.Designer.cs">
       <DependentUpon>Reindexar archivos.cs</DependentUpon>
     </Compile>
-    <Compile Include="TEST GITHUB.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="TEST GITHUB.Designer.cs">
-      <DependentUpon>TEST GITHUB.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Clientes.resx">
       <DependentUpon>Clientes.cs</DependentUpon>
     </EmbeddedResource>

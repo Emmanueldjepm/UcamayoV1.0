@@ -78,7 +78,7 @@
             this.Button1.Name = "Button1";
             this.Button1.Size = new System.Drawing.Size(31, 23);
             this.Button1.TabIndex = 7;
-            this.Button1.Text = "Button1";
+            this.Button1.Text = "T";
             this.Button1.UseVisualStyleBackColor = true;
             // 
             // TableLayoutPanel1
