@@ -11,3 +11,17 @@ c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01
 c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.exe
 c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.pdb
 c:\users\usuario\documents\visual studio 2013\Projects\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Reindexar_archivos.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\bin\Debug\Ucamayo V.01.exe.config
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\bin\Debug\Ucamayo V.01.exe
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\bin\Debug\Ucamayo V.01.pdb
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.csprojAssemblyReference.cache
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Clientes.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Cultivos.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Datos_de_la_empresa.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Principal.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Properties.Resources.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Reindexar_archivos.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.csproj.GenerateResource.cache
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.csproj.CoreCompileInputs.cache
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.exe
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.pdb
