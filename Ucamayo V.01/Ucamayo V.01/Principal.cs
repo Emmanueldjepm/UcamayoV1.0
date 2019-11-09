@@ -22,22 +22,30 @@ namespace Ucamayo_V._01
 
         }
 
+        private void AbrirForma(object Formulario) {
+                if (this.PanelPrincipal.Controls.Count > 0)
+                {
+                    this.PanelPrincipal.Controls.RemoveAt(0);
+                    Form FH = Formulario as Form;
+                    FH.TopLevel = false;
+                    FH.Dock = DockStyle.Fill;
+                    this.PanelPrincipal.Controls.Add(FH);
+                    this.PanelPrincipal.Tag = FH;
+                    FH.Show();
+                }
+            }
+
         private void CultivosToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
-            if (this.PanelPrincipal.Controls.Count > 0)
-            {
-                this.PanelPrincipal.Controls.RemoveAt(0);
-                Cultivos Culti = new Cultivos();
-                Culti.TopLevel = false;
-                Culti.Dock = DockStyle.Fill;
-                this.PanelPrincipal.Controls.Add(Culti);
-                this.PanelPrincipal.Tag = Culti;
-                Culti.Show();
+            AbrirForma(new Cultivos());
 
+        }
 
-                c.Show();
-            }
+        private void ClientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            AbrirForma(new Clientes());
 
         }
     }

@@ -66,7 +66,7 @@
             this.UtileriasToolStripMenuItem});
             this.MenuStrip1.Location = new System.Drawing.Point(0, 0);
             this.MenuStrip1.Name = "MenuStrip1";
-            this.MenuStrip1.Size = new System.Drawing.Size(800, 24);
+            this.MenuStrip1.Size = new System.Drawing.Size(805, 24);
             this.MenuStrip1.TabIndex = 1;
             this.MenuStrip1.Text = "MenuStrip1";
             // 
@@ -211,6 +211,7 @@
             this.ClientesToolStripMenuItem.Name = "ClientesToolStripMenuItem";
             this.ClientesToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.ClientesToolStripMenuItem.Text = "Clientes";
+            this.ClientesToolStripMenuItem.Click += new System.EventHandler(this.ClientesToolStripMenuItem_Click);
             // 
             // DestinosToolStripMenuItem
             // 
@@ -250,16 +251,17 @@
             // 
             // PanelPrincipal
             // 
-            this.PanelPrincipal.Location = new System.Drawing.Point(34, 37);
+            this.PanelPrincipal.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.PanelPrincipal.Location = new System.Drawing.Point(0, 24);
             this.PanelPrincipal.Name = "PanelPrincipal";
-            this.PanelPrincipal.Size = new System.Drawing.Size(746, 336);
+            this.PanelPrincipal.Size = new System.Drawing.Size(805, 363);
             this.PanelPrincipal.TabIndex = 2;
             // 
             // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 428);
+            this.ClientSize = new System.Drawing.Size(805, 387);
             this.Controls.Add(this.PanelPrincipal);
             this.Controls.Add(this.MenuStrip1);
             this.Name = "Principal";
