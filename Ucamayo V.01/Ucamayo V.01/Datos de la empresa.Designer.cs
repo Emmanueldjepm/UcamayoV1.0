@@ -267,6 +267,7 @@
             this.Controls.Add(this.Label2);
             this.Controls.Add(this.TextBox1);
             this.Controls.Add(this.Label1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Datos_de_la_empresa";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Datos_de_la_empresa";

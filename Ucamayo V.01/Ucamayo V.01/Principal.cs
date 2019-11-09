@@ -28,6 +28,7 @@ namespace Ucamayo_V._01
             {
                 this.PanelPrincipal.Controls.RemoveAt(0);
             }
+
             Form FH = Formulario as Form;
             FH.TopLevel = false;
             FH.Dock = DockStyle.Fill;
@@ -47,6 +48,13 @@ namespace Ucamayo_V._01
         {
 
             AbrirForma(new Clientes());
+
+        }
+
+        private void DatosDeEmpresaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            AbrirForma(new Datos_de_la_empresa());
 
         }
     }
