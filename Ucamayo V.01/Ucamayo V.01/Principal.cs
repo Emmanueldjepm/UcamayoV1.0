@@ -57,5 +57,12 @@ namespace Ucamayo_V._01
             AbrirForma(new Datos_de_la_empresa());
 
         }
+
+        private void ReordenarInformacionToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            AbrirForma(new Reindexar_archivos());
+
+        }
     }
 }
