@@ -24,9 +24,20 @@ namespace Ucamayo_V._01
 
         private void CultivosToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Cultivos c = new Cultivos();
-            c.Show();
-            
+
+            if (this.PanelPrincipal.Controls.Count > 0)
+            {
+                this.PanelPrincipal.Controls.RemoveAt(0);
+                Cultivos Culti = new Cultivos();
+                Culti.TopLevel = false;
+                Culti.Dock = DockStyle.Fill;
+                this.PanelPrincipal.Controls.Add(Culti);
+                this.PanelPrincipal.Tag = Culti;
+                Culti.Show();
+
+
+                c.Show();
+            }
 
         }
     }

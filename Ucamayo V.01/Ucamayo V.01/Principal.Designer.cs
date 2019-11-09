@@ -54,6 +54,7 @@
             this.LineaTrasportadoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.TipoDeEstibasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.CICOToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.PanelPrincipal = new System.Windows.Forms.Panel();
             this.MenuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -183,77 +184,85 @@
             // DatosDeEmpresaToolStripMenuItem
             // 
             this.DatosDeEmpresaToolStripMenuItem.Name = "DatosDeEmpresaToolStripMenuItem";
-            this.DatosDeEmpresaToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.DatosDeEmpresaToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.DatosDeEmpresaToolStripMenuItem.Text = "Datos de empresa";
             // 
             // ReordenarInformacionToolStripMenuItem
             // 
             this.ReordenarInformacionToolStripMenuItem.Name = "ReordenarInformacionToolStripMenuItem";
-            this.ReordenarInformacionToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.ReordenarInformacionToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.ReordenarInformacionToolStripMenuItem.Text = "Reordenar informacion";
             // 
             // CultivosToolStripMenuItem
             // 
             this.CultivosToolStripMenuItem.Name = "CultivosToolStripMenuItem";
-            this.CultivosToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.CultivosToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.CultivosToolStripMenuItem.Text = "Cultivos";
             this.CultivosToolStripMenuItem.Click += new System.EventHandler(this.CultivosToolStripMenuItem_Click);
             // 
             // ProductosToolStripMenuItem
             // 
             this.ProductosToolStripMenuItem.Name = "ProductosToolStripMenuItem";
-            this.ProductosToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.ProductosToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.ProductosToolStripMenuItem.Text = "Productos";
             // 
             // ClientesToolStripMenuItem
             // 
             this.ClientesToolStripMenuItem.Name = "ClientesToolStripMenuItem";
-            this.ClientesToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.ClientesToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.ClientesToolStripMenuItem.Text = "Clientes";
             // 
             // DestinosToolStripMenuItem
             // 
             this.DestinosToolStripMenuItem.Name = "DestinosToolStripMenuItem";
-            this.DestinosToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.DestinosToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.DestinosToolStripMenuItem.Text = "Destinos";
             // 
             // MedidasYTamañosDeProduxtosToolStripMenuItem
             // 
             this.MedidasYTamañosDeProduxtosToolStripMenuItem.Name = "MedidasYTamañosDeProduxtosToolStripMenuItem";
-            this.MedidasYTamañosDeProduxtosToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.MedidasYTamañosDeProduxtosToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.MedidasYTamañosDeProduxtosToolStripMenuItem.Text = "Medidas y tamaños de produxtos";
             // 
             // AgenciaAduanalToolStripMenuItem
             // 
             this.AgenciaAduanalToolStripMenuItem.Name = "AgenciaAduanalToolStripMenuItem";
-            this.AgenciaAduanalToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.AgenciaAduanalToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.AgenciaAduanalToolStripMenuItem.Text = "Agencia aduanal";
             // 
             // LineaTrasportadoraToolStripMenuItem
             // 
             this.LineaTrasportadoraToolStripMenuItem.Name = "LineaTrasportadoraToolStripMenuItem";
-            this.LineaTrasportadoraToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.LineaTrasportadoraToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.LineaTrasportadoraToolStripMenuItem.Text = "Linea trasportadora";
             // 
             // TipoDeEstibasToolStripMenuItem
             // 
             this.TipoDeEstibasToolStripMenuItem.Name = "TipoDeEstibasToolStripMenuItem";
-            this.TipoDeEstibasToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.TipoDeEstibasToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.TipoDeEstibasToolStripMenuItem.Text = "Tipo de estibas(PALES)";
             // 
             // CICOToolStripMenuItem
             // 
             this.CICOToolStripMenuItem.Name = "CICOToolStripMenuItem";
-            this.CICOToolStripMenuItem.Size = new System.Drawing.Size(250, 22);
+            this.CICOToolStripMenuItem.Size = new System.Drawing.Size(249, 22);
             this.CICOToolStripMenuItem.Text = "Ciclo";
             // 
-            // Primcipal
+            // PanelPrincipal
+            // 
+            this.PanelPrincipal.Location = new System.Drawing.Point(34, 37);
+            this.PanelPrincipal.Name = "PanelPrincipal";
+            this.PanelPrincipal.Size = new System.Drawing.Size(746, 336);
+            this.PanelPrincipal.TabIndex = 2;
+            // 
+            // Principal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 428);
+            this.Controls.Add(this.PanelPrincipal);
             this.Controls.Add(this.MenuStrip1);
-            this.Name = "Primcipal";
+            this.Name = "Principal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Sistema de control de empaques";
             this.MenuStrip1.ResumeLayout(false);
@@ -291,6 +300,7 @@
         internal System.Windows.Forms.ToolStripMenuItem LineaTrasportadoraToolStripMenuItem;
         internal System.Windows.Forms.ToolStripMenuItem TipoDeEstibasToolStripMenuItem;
         internal System.Windows.Forms.ToolStripMenuItem CICOToolStripMenuItem;
+        private System.Windows.Forms.Panel PanelPrincipal;
     }
 }
 
