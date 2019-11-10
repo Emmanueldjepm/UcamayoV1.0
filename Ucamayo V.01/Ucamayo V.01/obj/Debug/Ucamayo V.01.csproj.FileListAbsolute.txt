@@ -25,3 +25,15 @@ C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.
 C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.csproj.CoreCompileInputs.cache
 C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.exe
 C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo V.01.pdb
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Generar_salidas_de_articulos.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Reporte_liquidaciones.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Verificar_entrada_y_salida.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Agencia_aduanal.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Asignar_articulos_de_salida.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.captura_de_ciclos_agricola.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Captura_de_destinos.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Captura_de_medidas_y_tamaños_de_productos.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Captura_de_tipos_de_estibas__PALES_.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Linea_trasportadora.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Movimientos.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Productos.resources
