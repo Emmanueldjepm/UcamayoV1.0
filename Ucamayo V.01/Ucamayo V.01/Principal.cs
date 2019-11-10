@@ -64,5 +64,10 @@ namespace Ucamayo_V._01
             AbrirForma(new Reindexar_archivos());
 
         }
+
+        private void EmbarquesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

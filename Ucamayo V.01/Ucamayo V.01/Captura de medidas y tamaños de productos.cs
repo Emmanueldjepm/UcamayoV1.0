@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Ucamayo_V._01
 {
-    public partial class Productos : Form
+    public partial class Captura_de_medidas_y_tamaños_de_productos : Form
     {
-        public Productos()
+        public Captura_de_medidas_y_tamaños_de_productos()
         {
             InitializeComponent();
         }
