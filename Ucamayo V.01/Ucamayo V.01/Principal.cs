@@ -69,5 +69,58 @@ namespace Ucamayo_V._01
         {
 
         }
+
+        private void ProductosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            //AbrirForma(new Productos());
+
+        }
+
+        private void MovimientosESToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            AbrirForma(new Movimientos());
+
+        }
+
+        private void AgenciaAduanalToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            AbrirForma(new Agencia_aduanal());
+
+        }
+
+        private void LineaTrasportadoraToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+            AbrirForma(new Linea_trasportadora());
+
+        }
+
+        private void MedidasYTamañosDeProduxtosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirForma(new Captura_de_medidas_y_tamaños_de_productos());
+        }
+
+        private void TipoDeEstibasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirForma(new Captura_de_tipos_de_estibas__PALES_());
+        }
+
+        private void ArticulosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void ReporteDeLiquidacionesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirForma(new Reporte_liquidaciones());
+        }
+
+        private void GenerarSalidasDeArticulosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirForma(new Generar_salidas_de_articulos());
+        }
     }
 }

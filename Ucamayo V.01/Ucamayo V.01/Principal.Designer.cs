@@ -96,12 +96,14 @@
             this.GenerarSalidasDeArticulosToolStripMenuItem.Name = "GenerarSalidasDeArticulosToolStripMenuItem";
             this.GenerarSalidasDeArticulosToolStripMenuItem.Size = new System.Drawing.Size(245, 24);
             this.GenerarSalidasDeArticulosToolStripMenuItem.Text = "Generar salidas de articulos";
+            this.GenerarSalidasDeArticulosToolStripMenuItem.Click += new System.EventHandler(this.GenerarSalidasDeArticulosToolStripMenuItem_Click);
             // 
             // ReporteDeLiquidacionesToolStripMenuItem
             // 
             this.ReporteDeLiquidacionesToolStripMenuItem.Name = "ReporteDeLiquidacionesToolStripMenuItem";
             this.ReporteDeLiquidacionesToolStripMenuItem.Size = new System.Drawing.Size(245, 24);
             this.ReporteDeLiquidacionesToolStripMenuItem.Text = "Reporte de liquidaciones";
+            this.ReporteDeLiquidacionesToolStripMenuItem.Click += new System.EventHandler(this.ReporteDeLiquidacionesToolStripMenuItem_Click);
             // 
             // SalidaToolStripMenuItem
             // 
@@ -126,12 +128,14 @@
             this.ArticulosToolStripMenuItem.Name = "ArticulosToolStripMenuItem";
             this.ArticulosToolStripMenuItem.Size = new System.Drawing.Size(241, 24);
             this.ArticulosToolStripMenuItem.Text = "Articulos";
+            this.ArticulosToolStripMenuItem.Click += new System.EventHandler(this.ArticulosToolStripMenuItem_Click);
             // 
             // MovimientosESToolStripMenuItem
             // 
             this.MovimientosESToolStripMenuItem.Name = "MovimientosESToolStripMenuItem";
             this.MovimientosESToolStripMenuItem.Size = new System.Drawing.Size(241, 24);
             this.MovimientosESToolStripMenuItem.Text = "Movimientos E/S";
+            this.MovimientosESToolStripMenuItem.Click += new System.EventHandler(this.MovimientosESToolStripMenuItem_Click);
             // 
             // VerificadorDeMovimentosToolStripMenuItem
             // 
@@ -211,6 +215,7 @@
             this.ProductosToolStripMenuItem.Name = "ProductosToolStripMenuItem";
             this.ProductosToolStripMenuItem.Size = new System.Drawing.Size(283, 24);
             this.ProductosToolStripMenuItem.Text = "Productos";
+            this.ProductosToolStripMenuItem.Click += new System.EventHandler(this.ProductosToolStripMenuItem_Click);
             // 
             // ClientesToolStripMenuItem
             // 
@@ -230,24 +235,28 @@
             this.MedidasYTamañosDeProduxtosToolStripMenuItem.Name = "MedidasYTamañosDeProduxtosToolStripMenuItem";
             this.MedidasYTamañosDeProduxtosToolStripMenuItem.Size = new System.Drawing.Size(283, 24);
             this.MedidasYTamañosDeProduxtosToolStripMenuItem.Text = "Medidas y tamaños de productos";
+            this.MedidasYTamañosDeProduxtosToolStripMenuItem.Click += new System.EventHandler(this.MedidasYTamañosDeProduxtosToolStripMenuItem_Click);
             // 
             // AgenciaAduanalToolStripMenuItem
             // 
             this.AgenciaAduanalToolStripMenuItem.Name = "AgenciaAduanalToolStripMenuItem";
             this.AgenciaAduanalToolStripMenuItem.Size = new System.Drawing.Size(283, 24);
             this.AgenciaAduanalToolStripMenuItem.Text = "Agencia aduanal";
+            this.AgenciaAduanalToolStripMenuItem.Click += new System.EventHandler(this.AgenciaAduanalToolStripMenuItem_Click);
             // 
             // LineaTrasportadoraToolStripMenuItem
             // 
             this.LineaTrasportadoraToolStripMenuItem.Name = "LineaTrasportadoraToolStripMenuItem";
             this.LineaTrasportadoraToolStripMenuItem.Size = new System.Drawing.Size(283, 24);
             this.LineaTrasportadoraToolStripMenuItem.Text = "Linea trasportadora";
+            this.LineaTrasportadoraToolStripMenuItem.Click += new System.EventHandler(this.LineaTrasportadoraToolStripMenuItem_Click);
             // 
             // TipoDeEstibasToolStripMenuItem
             // 
             this.TipoDeEstibasToolStripMenuItem.Name = "TipoDeEstibasToolStripMenuItem";
             this.TipoDeEstibasToolStripMenuItem.Size = new System.Drawing.Size(283, 24);
             this.TipoDeEstibasToolStripMenuItem.Text = "Tipo de estibas(PALES)";
+            this.TipoDeEstibasToolStripMenuItem.Click += new System.EventHandler(this.TipoDeEstibasToolStripMenuItem_Click);
             // 
             // CICOToolStripMenuItem
             // 
