@@ -191,7 +191,7 @@
             this.Controls.Add(this.comboBox2);
             this.Controls.Add(this.label1);
             this.Name = "Generar_salidas_de_articulos";
-            this.Text = "Generar salidas de articulos de los embarques";
+            this.Text = "Generar_salidas_de_articulos";
             this.ResumeLayout(false);
             this.PerformLayout();
 
