@@ -56,11 +56,17 @@
     <Compile Include="Asignar articulos de salida.Designer.cs">
       <DependentUpon>Asignar articulos de salida.cs</DependentUpon>
     </Compile>
-    <Compile Include="captura de ciclos agricola.cs">
+    <Compile Include="Captura de articulos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="captura de ciclos agricola.Designer.cs">
-      <DependentUpon>captura de ciclos agricola.cs</DependentUpon>
+    <Compile Include="Captura de articulos.Designer.cs">
+      <DependentUpon>Captura de articulos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Captura de ciclos agricola.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Captura de ciclos agricola.Designer.cs">
+      <DependentUpon>Captura de ciclos agricola.cs</DependentUpon>
     </Compile>
     <Compile Include="Captura de destinos.cs">
       <SubType>Form</SubType>
@@ -98,6 +104,12 @@
     <Compile Include="Datos de la empresa.Designer.cs">
       <DependentUpon>Datos de la empresa.cs</DependentUpon>
     </Compile>
+    <Compile Include="Generar Kardex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Generar Kardex.Designer.cs">
+      <DependentUpon>Generar Kardex.cs</DependentUpon>
+    </Compile>
     <Compile Include="Generar salidas de articulos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -109,6 +121,12 @@
     </Compile>
     <Compile Include="Linea trasportadora.Designer.cs">
       <DependentUpon>Linea trasportadora.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Manifiesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Manifiesto.Designer.cs">
+      <DependentUpon>Manifiesto.cs</DependentUpon>
     </Compile>
     <Compile Include="Movimientos.cs">
       <SubType>Form</SubType>
@@ -122,6 +140,12 @@
     <Compile Include="Principal.Designer.cs">
       <DependentUpon>Principal.cs</DependentUpon>
     </Compile>
+    <Compile Include="Reporte de existencia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte de existencia.Designer.cs">
+      <DependentUpon>Reporte de existencia.cs</DependentUpon>
+    </Compile>
     <Compile Include="Reporte liquidaciones.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -134,8 +158,17 @@
     <Compile Include="Verificar entrada y salida.Designer.cs">
       <DependentUpon>Verificar entrada y salida.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Captura de articulos.resx">
+      <DependentUpon>Captura de articulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Generar Kardex.resx">
+      <DependentUpon>Generar Kardex.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Generar salidas de articulos.resx">
       <DependentUpon>Generar salidas de articulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reporte de existencia.resx">
+      <DependentUpon>Reporte de existencia.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Reporte liquidaciones.resx">
       <DependentUpon>Reporte liquidaciones.cs</DependentUpon>
@@ -143,12 +176,6 @@
     <EmbeddedResource Include="Verificar entrada y salida.resx">
       <DependentUpon>Verificar entrada y salida.cs</DependentUpon>
     </EmbeddedResource>
-    <None Include="Captura de ariculos">
-      <SubType>Form</SubType>
-    </None>
-    <Compile Include="Productos.Designer.cs">
-      <DependentUpon>Captura de ariculos</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Reindexar archivos.cs">
@@ -163,8 +190,8 @@
     <EmbeddedResource Include="Asignar articulos de salida.resx">
       <DependentUpon>Asignar articulos de salida.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="captura de ciclos agricola.resx">
-      <DependentUpon>captura de ciclos agricola.cs</DependentUpon>
+    <EmbeddedResource Include="Captura de ciclos agricola.resx">
+      <DependentUpon>Captura de ciclos agricola.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Captura de destinos.resx">
       <DependentUpon>Captura de destinos.cs</DependentUpon>
@@ -192,9 +219,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Principal.resx">
       <DependentUpon>Principal.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Productos.resx">
-      <DependentUpon>Captura de ariculos</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
