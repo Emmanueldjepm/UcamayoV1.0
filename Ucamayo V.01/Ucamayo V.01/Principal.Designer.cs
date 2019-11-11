@@ -161,13 +161,13 @@
             // ReporteDeAsistenciasToolStripMenuItem
             // 
             this.ReporteDeAsistenciasToolStripMenuItem.Name = "ReporteDeAsistenciasToolStripMenuItem";
-            this.ReporteDeAsistenciasToolStripMenuItem.Size = new System.Drawing.Size(213, 24);
-            this.ReporteDeAsistenciasToolStripMenuItem.Text = "Reporte de asistencias";
+            this.ReporteDeAsistenciasToolStripMenuItem.Size = new System.Drawing.Size(207, 24);
+            this.ReporteDeAsistenciasToolStripMenuItem.Text = "Reporte de existencia";
             // 
             // KardexToolStripMenuItem
             // 
             this.KardexToolStripMenuItem.Name = "KardexToolStripMenuItem";
-            this.KardexToolStripMenuItem.Size = new System.Drawing.Size(213, 24);
+            this.KardexToolStripMenuItem.Size = new System.Drawing.Size(207, 24);
             this.KardexToolStripMenuItem.Text = "Kardex";
             // 
             // UtileriasToolStripMenuItem
