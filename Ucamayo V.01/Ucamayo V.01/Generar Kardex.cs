@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Ucamayo_V._01
 {
-    public partial class Captura_de_ciclos_agricola : Form
+    public partial class Generar_Kardex : Form
     {
-        public Captura_de_ciclos_agricola()
+        public Generar_Kardex()
         {
             InitializeComponent();
         }
