@@ -90,6 +90,7 @@
             this.ManifiestoToolStripMenuItem.Name = "ManifiestoToolStripMenuItem";
             this.ManifiestoToolStripMenuItem.Size = new System.Drawing.Size(245, 24);
             this.ManifiestoToolStripMenuItem.Text = "Manifiesto";
+            this.ManifiestoToolStripMenuItem.Click += new System.EventHandler(this.ManifiestoToolStripMenuItem_Click);
             // 
             // GenerarSalidasDeArticulosToolStripMenuItem
             // 
@@ -110,6 +111,7 @@
             this.SalidaToolStripMenuItem.Name = "SalidaToolStripMenuItem";
             this.SalidaToolStripMenuItem.Size = new System.Drawing.Size(245, 24);
             this.SalidaToolStripMenuItem.Text = "Salida";
+            this.SalidaToolStripMenuItem.Click += new System.EventHandler(this.SalidaToolStripMenuItem_Click);
             // 
             // InventarioToolStripMenuItem
             // 
@@ -142,12 +144,14 @@
             this.VerificadorDeMovimentosToolStripMenuItem.Name = "VerificadorDeMovimentosToolStripMenuItem";
             this.VerificadorDeMovimentosToolStripMenuItem.Size = new System.Drawing.Size(241, 24);
             this.VerificadorDeMovimentosToolStripMenuItem.Text = "Verificador de movimentos";
+            this.VerificadorDeMovimentosToolStripMenuItem.Click += new System.EventHandler(this.VerificadorDeMovimentosToolStripMenuItem_Click);
             // 
             // AsignarArticulosDeSalidaToolStripMenuItem
             // 
             this.AsignarArticulosDeSalidaToolStripMenuItem.Name = "AsignarArticulosDeSalidaToolStripMenuItem";
             this.AsignarArticulosDeSalidaToolStripMenuItem.Size = new System.Drawing.Size(241, 24);
             this.AsignarArticulosDeSalidaToolStripMenuItem.Text = "Asignar articulos de salida";
+            this.AsignarArticulosDeSalidaToolStripMenuItem.Click += new System.EventHandler(this.AsignarArticulosDeSalidaToolStripMenuItem_Click);
             // 
             // ReportesToolStripMenuItem
             // 
@@ -163,12 +167,14 @@
             this.ReporteDeAsistenciasToolStripMenuItem.Name = "ReporteDeAsistenciasToolStripMenuItem";
             this.ReporteDeAsistenciasToolStripMenuItem.Size = new System.Drawing.Size(213, 24);
             this.ReporteDeAsistenciasToolStripMenuItem.Text = "Reporte de asistencias";
+            this.ReporteDeAsistenciasToolStripMenuItem.Click += new System.EventHandler(this.ReporteDeAsistenciasToolStripMenuItem_Click);
             // 
             // KardexToolStripMenuItem
             // 
             this.KardexToolStripMenuItem.Name = "KardexToolStripMenuItem";
             this.KardexToolStripMenuItem.Size = new System.Drawing.Size(213, 24);
             this.KardexToolStripMenuItem.Text = "Kardex";
+            this.KardexToolStripMenuItem.Click += new System.EventHandler(this.KardexToolStripMenuItem_Click);
             // 
             // UtileriasToolStripMenuItem
             // 
@@ -229,6 +235,7 @@
             this.DestinosToolStripMenuItem.Name = "DestinosToolStripMenuItem";
             this.DestinosToolStripMenuItem.Size = new System.Drawing.Size(283, 24);
             this.DestinosToolStripMenuItem.Text = "Destinos";
+            this.DestinosToolStripMenuItem.Click += new System.EventHandler(this.DestinosToolStripMenuItem_Click);
             // 
             // MedidasYTamañosDeProduxtosToolStripMenuItem
             // 
@@ -263,6 +270,7 @@
             this.CICOToolStripMenuItem.Name = "CICOToolStripMenuItem";
             this.CICOToolStripMenuItem.Size = new System.Drawing.Size(283, 24);
             this.CICOToolStripMenuItem.Text = "Ciclo";
+            this.CICOToolStripMenuItem.Click += new System.EventHandler(this.CICOToolStripMenuItem_Click);
             // 
             // PanelPrincipal
             // 

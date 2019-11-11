@@ -36,4 +36,6 @@ C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.
 C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Captura_de_tipos_de_estibas__PALES_.resources
 C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Linea_trasportadora.resources
 C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Movimientos.resources
-C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Productos.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Captura_de_articulos.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Generar_kardex.resources
+C:\Users\EMMANUEL\Source\Repos\Emmanueldjepm\UcamayoV1.0\Ucamayo V.01\Ucamayo V.01\obj\Debug\Ucamayo_V._01.Reporte_de_existencia.resources

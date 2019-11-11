@@ -122,5 +122,45 @@ namespace Ucamayo_V._01
         {
             AbrirForma(new Generar_salidas_de_articulos());
         }
+
+        private void DestinosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void CICOToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AsignarArticulosDeSalidaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirForma(new Asignar_articulos_de_salida());
+        }
+
+        private void KardexToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirForma(new Generar_kardex());
+        }
+
+        private void ManifiestoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirForma(new Manifiesto());
+        }
+
+        private void SalidaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void VerificadorDeMovimentosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ReporteDeAsistenciasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
